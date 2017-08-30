@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UCropTest</string>
+
+    <string name="verif_second">%1$ds</string>
+    <string name="reget">重新获取</string>
+    <string name="save_galley">相册</string>
+    <string name="cancel">拍照</string>
+    <string name="camera_and_location_rationale">我要权限</string>
+</resources>
