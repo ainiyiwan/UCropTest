@@ -1,10 +1,5 @@
 package com.zhimadai.cctvmall.ucroptest;
 
-/**
- * Auth        :BinarySatan
- * Time        :2017/6/13
- * Description :
- */
 
 public class DlgCallbackEntity {
 

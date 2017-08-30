@@ -15,6 +15,7 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.yalantis.ucrop.UCrop;
 import com.yalantis.ucrop.UCropActivity;
 import com.zhimadai.cctvmall.ucroptest.util.EmptyUtils;
+import com.zhimadai.cctvmall.ucroptest.util.PerUtils;
 import com.zhimadai.cctvmall.ucroptest.util.PhotoUtils;
 import com.zhimadai.cctvmall.ucroptest.util.RxSPUtils;
 
@@ -118,6 +119,8 @@ public class MainActivity extends AppCompatActivity implements EasyPermissions.P
     public void onPermissionsDenied(int requestCode, List<String> list) {
         // Some permissions have been denied
         // ...
+        PerUtils.somePermissionPermanentlyDenied(this, list);
+
     }
 
 

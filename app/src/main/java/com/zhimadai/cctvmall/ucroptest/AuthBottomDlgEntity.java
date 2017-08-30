@@ -1,7 +1,6 @@
 package com.zhimadai.cctvmall.ucroptest;
 
 /**
- * Author:BinarySatan
  * Time: 2017/3/2
  */
 

@@ -5,12 +5,6 @@ import android.content.res.Resources;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Author ： zhangyang
- * Date   ： 2017/8/28
- * Email  :  18610942105@163.com
- * Description  :
- */
 
 public class DataHelper {
 

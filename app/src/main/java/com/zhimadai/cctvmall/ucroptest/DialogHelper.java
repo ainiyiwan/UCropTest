@@ -10,12 +10,6 @@ import android.widget.TextView;
 import com.chad.library.adapter.base.BaseQuickAdapter;
 import com.chad.library.adapter.base.listener.OnItemClickListener;
 
-/**
- * Author ： zhangyang
- * Date   ： 2017/8/28
- * Email  :  18610942105@163.com
- * Description  :
- */
 
 public class DialogHelper {
 

@@ -2,10 +2,6 @@ package com.zhimadai.cctvmall.ucroptest;
 
 import android.widget.TextView;
 
-/**
- * Author:BinarySatan
- * Time: 2017/3/2
- */
 
 public interface Callback<T> {
 

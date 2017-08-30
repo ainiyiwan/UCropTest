@@ -1,11 +1,5 @@
 package com.zhimadai.cctvmall.ucroptest;
 
-/**
- * Author ： zhangyang
- * Date   ： 2017/4/18
- * Email  :  18610942105@163.com
- * Description  :
- */
 
 public class ClickUtil {
     private static long lastClickTime;

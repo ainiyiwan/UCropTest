@@ -29,12 +29,6 @@ import static com.yalantis.ucrop.util.FileUtils.isDownloadsDocument;
 import static com.yalantis.ucrop.util.FileUtils.isGooglePhotosUri;
 import static com.yalantis.ucrop.util.FileUtils.isMediaDocument;
 
-/**
- * Author ： zhangyang
- * Date   ： 2017/8/30
- * Email  :  18610942105@163.com
- * Description  :
- */
 
 public class PhotoUtils {
     public static final int GET_IMAGE_BY_CAMERA = 5001;

@@ -11,12 +11,6 @@ import java.lang.reflect.Array;
 import java.util.Collection;
 import java.util.Map;
 
-/**
- * Author ： zhangyang
- * Date   ： 2017/8/30
- * Email  :  18610942105@163.com
- * Description  :
- */
 
 public final class EmptyUtils {
 

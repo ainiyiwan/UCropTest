@@ -9,13 +9,6 @@ import android.view.Window;
 import android.view.WindowManager;
 
 
-/**
- * Desc   :
- * <p/>
- * Author ： BinarySatan
- * Date   ： 2016/11/1
- * Email  :  450778776@qq.com
- */
 public class BottomDialog extends Dialog {
     private final Context mContext;
     private final View mContentView;

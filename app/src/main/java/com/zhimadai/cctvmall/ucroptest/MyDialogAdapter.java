@@ -7,12 +7,6 @@ import com.chad.library.adapter.base.BaseViewHolder;
 
 import java.util.List;
 
-/**
- * Author ： zhangyang
- * Date   ： 2017/5/25
- * Email  :  18610942105@163.com
- * Description  :
- */
 
 public class MyDialogAdapter extends BaseQuickAdapter<AuthBottomDlgEntity, BaseViewHolder> {
 
